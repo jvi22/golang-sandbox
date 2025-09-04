@@ -1,3 +1,5 @@
+// a type of data structure (dynamic array)
+
 package main
 
 import (
